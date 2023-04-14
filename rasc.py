@@ -15,11 +15,10 @@ if resposta == "soma":
 
 elif resposta == "média":
     print(f"Então a resposta é: {media}")
-
 else:
     if resposta != "soma" or resposta != "média":
         print("Então vai se foder, não quer brincar entao nao desce pro play arrombado")
-'''
+
 
 i = 0
 soma = 0
@@ -34,3 +33,4 @@ media = soma/i
 
 print(f"A soma é : {soma} e a média é: {media} ")
 
+'''
